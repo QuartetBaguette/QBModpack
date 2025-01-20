@@ -26,6 +26,7 @@ In the left toolbar click on the modpack icon and click play. Enjoy!
 
 ## Modrinth installieren
 Lade den Modrinth modlauncher unter folgendem Link herunter -> https://modrinth.com/app
+
 Starte das Installationsprogramm und folge dem Installations-Wizard.
 
 ## Einloggen mit deinem Microsoft-Konto
