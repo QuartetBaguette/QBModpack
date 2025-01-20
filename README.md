@@ -23,6 +23,7 @@ After you are on the discovery tab, search for "QBModpack" and click install.
 
 ## Click play
 
+*Be sure to close your old minecraft instance!*
 In the left toolbar click on the modpack icon and click play. Enjoy!
 
 # Schritte - DE
