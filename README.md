@@ -16,8 +16,11 @@ In the top right of the launcher, make sure to login with your Microsoft account
 ## Go to the discovery tab
 
 ![Modrinth discovery tab](https://s6.imgcdn.dev/YDwhyq.png)
+
 After you are on the discovery tab, search for "QBModpack" and click install.
+
 ![YDwjAB.png](https://s6.imgcdn.dev/YDwjAB.png)
+
 ## Click play
 
 In the left toolbar click on the modpack icon and click play. Enjoy!
